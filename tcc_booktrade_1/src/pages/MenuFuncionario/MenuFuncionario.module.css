@@ -1,0 +1,32 @@
+.menu {
+
+    background: linear-gradient(
+        90deg,
+        #2e2d2d,
+        #243a40
+    );
+
+}
+
+.logo {
+    
+    color: white !important;
+    font-weight: bold;
+    font-size: 1.4rem;
+
+}
+
+.itemMenu {
+
+    color: rgba(255, 255, 255, 0.7) !important;
+    transition: 0.3s;
+
+}
+
+.itemMenu:hover {
+
+    color: orange !important;
+    transform: translateY(-1px);
+
+}
+
