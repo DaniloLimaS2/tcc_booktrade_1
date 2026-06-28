@@ -47,3 +47,23 @@
   color: #6b6375;
   font-size: 0.9rem;
 }
+
+.capa {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
+
+.grade {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.card {
+  width: 220px;
+  /* mantém o resto das suas regras do .card */
+}
